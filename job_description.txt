@@ -1,0 +1,62 @@
+Job description
+
+I am contacting you from OpportuneJobs.com (Skillskarma Services). Currently we are hiring for a client . The details are given below: 
+
+
+About the Organisation
+
+A rapidly growing, ISO 9001:2015 certified technology product company focused on enabling financial institutions to become highly customer-centric. The company offers comprehensive technology solutions, including customer management, loan management, audit, e-learning, and business intelligence tools. Their mobile technology products provide full functionality on mobile and tablet devices, giving clients a competitive edge. The organization is certified as a Great Place To Work.
+
+
+Position: Full Stack Python Developer
+
+
+Location: Dharwad, Karnataka
+
+
+Key Responsibilities
+
+
+Front-End Development
+
+Build user interfaces using HTML, CSS, and JavaScript, leveraging frameworks such as React or Angular.
+Back-End Development
+
+Develop server-side logic, manage databases, and handle user authentication/authorization using Python and frameworks like Django or Flask.
+Database Management
+
+Design and manage relational (SQL) and non-relational (NoSQL) databases using tools such as SQLAlchemy or Django ORM.
+Version Control
+
+Use version control systems (e.g., Git) to manage code changes and collaborate with team members.
+API Development
+
+Design and implement RESTful APIs to enable seamless communication between front-end and back-end systems.
+Qualifications and Skills
+
+Bachelors degree in Computer Science, Engineering, or a related field.
+Proven experience as a Full Stack Developer.
+Strong proficiency in front-end technologies including HTML5, CSS3, and JavaScript.
+Experience with RESTful APIs and web services.
+Solid understanding of security principles and their application in web development.
+Excellent problem-solving skills and attention to detail.
+Strong communication and teamwork skills.
+If you are interested, please provide the details below.
+
+
+For More info :
+
+
+Call at +91 9634106966
+
+
+
+Designation:Fullstack Python Developer
+
+Location:Dharwad
+
+Role:Fullstack Python Developer
+
+Industry:IT Services & Consulting
+
+You are receiving this job because your profile contained one or more of the following words that the recruiter searched for: full stack python, Python, SQL, API, Rest
